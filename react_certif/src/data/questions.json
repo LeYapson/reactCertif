@@ -1,0 +1,67 @@
+{
+  "questions": [
+    {
+      "question": "Quel est ton style de jeu préféré ?",
+      "options": [
+        { "text": "Je fonce dans le tas !", "tag": "énergique" },
+        { "text": "Je contrôle et manipule mes adversaires.", "tag": "manipulateur" },
+        { "text": "J'observe et je réagis intelligemment.", "tag": "intelligent" },
+        { "text": "Je prends mon temps et je planifie mes actions.", "tag": "stratégique" }
+      ]
+    },
+    {
+      "question": "Quel est ton plus grand atout en jeu ?",
+      "options": [
+        { "text": "Mon imprévisibilité.", "tag": "chaotique" },
+        { "text": "Ma stratégie et mon sang-froid.", "tag": "stratège" },
+        { "text": "Mon charme et ma persuasion.", "tag": "charmeur" },
+        { "text": "Ma précision et mon calcul.", "tag": "calculateur" }
+      ]
+    },
+    {
+      "question": "Quel rôle préfères-tu dans une équipe ?",
+      "options": [
+        { "text": "L'initiateur, toujours en première ligne !", "tag": "rebelle" },
+        { "text": "Le cerveau, celui qui guide et contrôle.", "tag": "calculateur" },
+        { "text": "Le joker, qui influence sans jamais être au centre.", "tag": "tactique" },
+        { "text": "Le protecteur, qui assure la sécurité de l'équipe.", "tag": "protecteur" }
+      ]
+    },
+    {
+      "question": "Quelle est ta principale motivation dans un match ?",
+      "options": [
+        { "text": "Dominer mes adversaires et m'imposer !", "tag": "dominant" },
+        { "text": "Jouer stratégiquement et remporter la victoire.", "tag": "stratégique" },
+        { "text": "M'amuser et surprendre tout le monde.", "tag": "chaotique" },
+        { "text": "Jouer en équipe et protéger mes alliés.", "tag": "protecteur" }
+      ]
+    },
+    {
+      "question": "Comment réagis-tu face à une situation difficile en jeu ?",
+      "options": [
+        { "text": "Je fonce sans hésiter !", "tag": "rebelle" },
+        { "text": "Je prends du recul et j'analyse la situation.", "tag": "intelligent" },
+        { "text": "Je m'adapte rapidement et je trouve une solution.", "tag": "stratégique" },
+        { "text": "Je m'assure que mon équipe soit en sécurité avant d'agir.", "tag": "protecteur" }
+      ]
+    },
+    {
+      "question": "Quel type de champion préfères-tu jouer ?",
+      "options": [
+        { "text": "Un assassin rapide et imprévisible.", "tag": "chaotique" },
+        { "text": "Un tank solide et protecteur.", "tag": "protecteur" },
+        { "text": "Un mage tactique et intelligent.", "tag": "intelligent" },
+        { "text": "Un ADC puissant avec une stratégie de late-game.", "tag": "stratégique" }
+      ]
+    },
+    {
+      "question": "Quel est ton plus grand plaisir dans un match ?",
+      "options": [
+        { "text": "Faire des plays incroyables et impressionner tout le monde.", "tag": "chaotique" },
+        { "text": "Outplay mes adversaires avec un bon positionnement.", "tag": "stratégique" },
+        { "text": "M'assurer que mon équipe gagne grâce à ma présence.", "tag": "protecteur" },
+        { "text": "Dominer totalement mon adversaire sur ma lane.", "tag": "dominant" }
+      ]
+    }
+  ]
+}
